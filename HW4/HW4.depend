@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1511888119 source:c:\users\user\desktop\ds_hw4\code.cpp
+	"function.h"
+	<iostream>
+	<list>
+
+1511417638 c:\users\user\desktop\ds_hw4\function.h
+	<string>
+	<iostream>
+	<list>
+
+1511792728 source:c:\users\user\desktop\ds_hw4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"function.h"
+
